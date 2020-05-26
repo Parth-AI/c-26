@@ -1,0 +1,5 @@
+pwd  show present working directory
+ls  listing files & folders present in any dierctory
+cd   to change the directory
+mkdir  to make new directory
+cd\  move towards root directory
